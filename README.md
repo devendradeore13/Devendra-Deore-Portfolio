@@ -11,4 +11,4 @@
 
 **Let's connect!** 
 
-[LinkedIn](https://www.linkedin.com/in/devendra-kaka-ji-deore-b587b9272/) | [Email](1002deoredk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/devendra-deore-493a941aa/) | [Email](1002deoredk@gmail.com)
