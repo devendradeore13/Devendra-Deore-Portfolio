@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sign Language Classification using Deep Learning",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a real-time sign language classification application using Python, CNNs, and RNNs.",
+    "skills": ["CNN", "RNN", "PyTorch"],
+    "demo": "#demo",
+    "source": "#source"
+  },
+  {
+    "title": "Currency Converter using Java",
+    "imageSrc": "projects/project.png",
+    "description": "Created a Java application for currency conversion with real-time exchange rates, ensuring high performance and precision.",
+    "skills": ["Java", "Swing", "NetBeans"],
+    "demo": "#demo",
+    "source": "#source"
+  },
+  {
+    "title": "Student Record System",
+    "imageSrc": "projects/project.png",
+    "description": " Designed and optimized a dynamic student record management system using PHP, HTML, CSS, Bootstrap, and SQL.",
+    "skills": ["PHP", "HTML", "CSS","Bootstrap", "SQL","JavaScript"],
+    "demo": "#demo",
+    "source": "#source"
+  }
+]

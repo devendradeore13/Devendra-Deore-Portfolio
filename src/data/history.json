@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Edunet Foundation",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Created UI of Website","design dashboards"],
+    "imageSrc": "history/edunet.png"
+  },
+  {
+    "role": "Data Analytics Intern",
+    "organisation": "Edunet Foundation",
+    "startDate": "Feb, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": ["Created Dashboard on Agriculture Data", "Take Insights from Data"],
+    "imageSrc": "history/edunet.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Netleap IT Training & Solutions",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Handled Backend Programming",
+      "Helped create Database Connection"
+    ],
+    "imageSrc": "history/nits.jpg"
+  }
+]
